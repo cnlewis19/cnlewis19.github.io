@@ -49,3 +49,6 @@ input, select { vertical-align: middle; }
 body {
 background-color:#66FFFF; 
 }
+heading {
+  text-align: center;
+}
